@@ -22,9 +22,8 @@ Capture attack traffic and ensure that it’s processed by Snort and indexed in 
 - Develop Splunk Dashboard:
 Design a Splunk dashboard that displays real-time attack data.
 Create Splunk search queries to analyze attack data and visualize it in an informative and easy-to-understand format.
-Optimize Data Processing:
 
--Optimize Data Processing:
+- Optimize Data Processing:
 Work within the limitations of Splunk’s free version (e.g., 500MB) by optimizing data volume and ensuring that only relevant data is captured and processed.
 Fine-tune Snort’s rule set to avoid unnecessary data and focus on the most significant threats.
 
