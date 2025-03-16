@@ -10,6 +10,9 @@ In this project, I focused on designing and implementing a Splunk-based dashboar
 Install Splunk Enterprise and configure it to accept log data from other systems.
 You can install Splunk Universal Forwarder on relevant machines (e.g., Snort system) to forward logs to the Splunk instance.
 
+![image](https://github.com/user-attachments/assets/6ffcce8b-c7ce-4e21-9cb2-292b516b5c63)
+
+
 - Configure and Install Snort IDS:
 Install Snort on a Linux-based machine (e.g., Kali Linux or Ubuntu).
 Write custom Snort rules to detect specific attack patterns.
