@@ -7,7 +7,6 @@ In this project, I focused on designing and implementing a Splunk-based dashboar
 # Implementation Steps for the Project
 
 - Set up Splunk Environment:
-
 Install Splunk Enterprise and configure it to accept log data from other systems.
 You can install Splunk Universal Forwarder on relevant machines (e.g., Snort system) to forward logs to the Splunk instance.
 
@@ -26,7 +25,6 @@ Create Splunk search queries to analyze attack data and visualize it in an infor
 Optimize Data Processing:
 
 -Optimize Data Processing:
-
 Work within the limitations of Splunk’s free version (e.g., 500MB) by optimizing data volume and ensuring that only relevant data is captured and processed.
 Fine-tune Snort’s rule set to avoid unnecessary data and focus on the most significant threats.
 
